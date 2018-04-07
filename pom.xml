@@ -6,7 +6,7 @@
 
     <artifactId>zoikks-pom</artifactId>
     <groupId>org.zoikks.pom</groupId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Zoikks POM</name>
     <packaging>pom</packaging>
     <description>Base pom used for building libraries/applications</description>
